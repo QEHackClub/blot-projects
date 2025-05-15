@@ -1,2 +1,2 @@
 # blot-projects
-a collection of mine and my students blot works
+a collection of some of mine and my clubs blot works
